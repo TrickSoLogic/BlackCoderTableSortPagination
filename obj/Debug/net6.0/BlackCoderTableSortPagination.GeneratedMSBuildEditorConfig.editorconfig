@@ -9,33 +9,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlackCoderTableSortPagination
 build_property.RootNamespace = BlackCoderTableSortPagination
-build_property.ProjectDir = D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\1New GIT Upload List proj\DataTablesInDotNetCore-master\
+build_property.ProjectDir = D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderEmployeePaginationMaster\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\1New GIT Upload List proj\DataTablesInDotNetCore-master
+build_property.MSBuildProjectDirectory = D:\ASP.net-CORE_MVC\GIT\1Uploaded to Git files\BlackCoderEmployeePaginationMaster
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ASP.net-CORE_MVC/GIT/1Should Modify first then upload/1New GIT Upload List proj/DataTablesInDotNetCore-master/Views/Home/Index.cshtml]
+[D:/ASP.net-CORE_MVC/GIT/1Uploaded to Git files/BlackCoderEmployeePaginationMaster/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.net-CORE_MVC/GIT/1Should Modify first then upload/1New GIT Upload List proj/DataTablesInDotNetCore-master/Views/Shared/Error.cshtml]
+[D:/ASP.net-CORE_MVC/GIT/1Uploaded to Git files/BlackCoderEmployeePaginationMaster/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.net-CORE_MVC/GIT/1Should Modify first then upload/1New GIT Upload List proj/DataTablesInDotNetCore-master/Views/Shared/_Layout.cshtml]
+[D:/ASP.net-CORE_MVC/GIT/1Uploaded to Git files/BlackCoderEmployeePaginationMaster/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.net-CORE_MVC/GIT/1Should Modify first then upload/1New GIT Upload List proj/DataTablesInDotNetCore-master/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ASP.net-CORE_MVC/GIT/1Uploaded to Git files/BlackCoderEmployeePaginationMaster/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.net-CORE_MVC/GIT/1Should Modify first then upload/1New GIT Upload List proj/DataTablesInDotNetCore-master/Views/_ViewImports.cshtml]
+[D:/ASP.net-CORE_MVC/GIT/1Uploaded to Git files/BlackCoderEmployeePaginationMaster/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ASP.net-CORE_MVC/GIT/1Should Modify first then upload/1New GIT Upload List proj/DataTablesInDotNetCore-master/Views/_ViewStart.cshtml]
+[D:/ASP.net-CORE_MVC/GIT/1Uploaded to Git files/BlackCoderEmployeePaginationMaster/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

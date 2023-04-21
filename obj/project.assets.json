@@ -2885,11 +2885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\1New GIT Upload List proj\\DataTablesInDotNetCore-master\\BlackCoderTableSortPagination.csproj",
+      "projectUniqueName": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\BlackCoderEmployeePaginationMaster\\BlackCoderTableSortPagination.csproj",
       "projectName": "BlackCoderTableSortPagination",
-      "projectPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\1New GIT Upload List proj\\DataTablesInDotNetCore-master\\BlackCoderTableSortPagination.csproj",
+      "projectPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\BlackCoderEmployeePaginationMaster\\BlackCoderTableSortPagination.csproj",
       "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\1New GIT Upload List proj\\DataTablesInDotNetCore-master\\obj\\",
+      "outputPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\BlackCoderEmployeePaginationMaster\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
